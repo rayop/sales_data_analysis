@@ -55,9 +55,3 @@ Displays sales trend along with a 3-month moving average to smooth fluctuations.
    
    jupyter notebook sales2.ipynb
    
-
-💡 This project is part of my data analytics learning journey. Excited to explore predictive analytics next! 🚀
-
-
-If you want, I can also **write you a short LinkedIn caption** that grabs attention and encourages people to check out your GitHub.
-Do you want me to prepare that next?
